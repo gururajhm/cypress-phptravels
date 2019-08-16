@@ -1,0 +1,10 @@
+{
+  "projectId": "4b7344",
+  "chromeWebSecurity": false,
+
+  "env": {
+    "USERNAME": "admin@phptravels.com",
+    "PASSWORD": "demoadmin",
+    "URL": "https://www.phptravels.net/admin"
+  }
+}
