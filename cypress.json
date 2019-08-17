@@ -6,5 +6,12 @@
     "USERNAME": "admin@phptravels.com",
     "PASSWORD": "demoadmin",
     "URL": "https://www.phptravels.net/admin"
-  }
+  },
+
+  "reporter": "mochawesome",
+  "reporterOptions": {
+  "overwrite": false,
+  "html": false,
+  "json": true
+ }
 }
