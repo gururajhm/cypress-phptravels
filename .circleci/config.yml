@@ -30,7 +30,7 @@ jobs:
           path: junit-results
       - run:
           name: Running E2E tests with multiple reporters
-          command: npm run test:ci:chrome
+          command: npm run e2e:chrome
       - store_test_results:
           path: multiple-results
       - store_artifacts:
