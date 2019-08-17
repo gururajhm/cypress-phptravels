@@ -79,7 +79,8 @@
     "yaml-lint": "1.2.4"
   },
   "engines": {
-    "node": ">=4"
+    "node": ">=8.2.1",
+    "npm": ">= 3.0.0"
   },
   "husky": {
     "hooks": {
