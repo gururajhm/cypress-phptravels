@@ -64,7 +64,7 @@
     "cucumber-html-reporter": "^4.0.2",
     "cucumber-pretty": "1.4.0",
     "cypress-cucumber-preprocessor": "1.11.0",
-    "cypress-file-upload": "3.3.3",
+    //"cypress-file-upload": "3.3.3",
     "eslint": "5.16.0",
     "eslint-plugin-cypress": "2.6.0",
     "eslint-plugin-cypress-dev": "2.1.0",
