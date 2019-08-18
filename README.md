@@ -6,3 +6,7 @@ This is an example app used to showcase [Cypress.io](https://www.cypress.io/) te
 ## PHPTravels
 PHPTravels is a demo website where people can try out the software of an actual travel site. In this project, I have created test cases on the site that range from logging in to searching for hotels. Cypress tool is used to test e2e use cases. This
 will run test in CircleCI and also creates simple mochawesome report. 
+
+## Use Cases
+Login to PHPtravels
+Add New car details
