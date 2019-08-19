@@ -15,6 +15,7 @@ module.exports = (on, config) => {
 	// `on` is used to hook into various events Cypress emits
 	// `config` is the resolved Cypress config
 	on('file:preprocessor', cucumber());
+	on('task', require('@cypress/code-coverage/task'))
 
 	return Object.assign({}, config, {
 		fixturesFolder: 'cypress/fixtures',
